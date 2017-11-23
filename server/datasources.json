@@ -1,0 +1,10 @@
+{
+  "couchdb": {
+    "host": "127.0.0.1",
+    "port": 5984,
+    "name": "couchdb",
+    "connector": "couch",
+    "db": "database",
+    "protocol": "http"
+  }
+}
