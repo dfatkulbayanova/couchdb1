@@ -2,7 +2,7 @@
   "couchdb": {
   
     "host": "admin:bitnami@127.0.0.1",
-    "port": 5984,
+    "port": 443,
     "name": "couchdb",
     "connector": "couch",
     "db": "database",
