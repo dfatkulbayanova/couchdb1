@@ -1,11 +1,11 @@
 {
   "couchdb": {
   
-    "host": "admin:bitnami@127.0.0.1",
-    "port": 443,
+    "host": "msg.satisco.com",
+    "port": 5984,
     "name": "couchdb",
     "connector": "couch",
-    "db": "database",
+    "db": "articles",
     "protocol": "http"
   }
 }
